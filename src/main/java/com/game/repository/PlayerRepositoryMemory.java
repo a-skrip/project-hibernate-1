@@ -30,7 +30,7 @@ public class PlayerRepositoryMemory implements IPlayerRepository {
         add(new Player(17L, "Фаэрвин", "Темный Идеолог", Race.HUMAN, Profession.NAZGUL, new Date(1216967280000L), false, 12));
         add(new Player(18L, "Харидин", "Бедуин", Race.TROLL, Profession.WARRIOR, new Date(1211454600000L), false, 47));
         add(new Player(19L, "Джур", "БоРец с жАжДой", Race.ORC, Profession.DRUID, new Date(1211860680000L), false, 23));
-        add(new Player(20L, "Грон", "оин обреченный на бой", Race.GIANT, Profession.PALADIN, new Date(1218401160000L), false, 58));
+        add(new Player(20L, "Грон", "Воин обреченный на бой", Race.GIANT, Profession.PALADIN, new Date(1218401160000L), false, 58));
         add(new Player(21L, "Морвиел", "Копье Калимы", Race.ELF, Profession.CLERIC, new Date(1244696560000L), false, 31));
         add(new Player(22L, "Ннуфис", "ДиамантоваЯ", Race.HUMAN, Profession.ROGUE, new Date(1214556360000L), false, 56));
         add(new Player(25L, "Ырх", "Троль гнет ель", Race.TROLL, Profession.WARRIOR, new Date(1244687920000L), true, 51));
